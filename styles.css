@@ -18,7 +18,7 @@ color:red;
 font-size: 20rem;}
 h3{text-align: center;
 color:red;}
-#cookies1, #risotto1, #fruity1{font-size: 4rem;
+.fire, #cookies1, #risotto1, #fruity1{font-size: 4rem;
     display:flex;
     flex: 1;
 color: black;
