@@ -19,6 +19,8 @@ font-size: 20rem;}
 h3{text-align: center;
 color:red;}
 #cookies1, #risotto1, #fruity1{font-size: 4rem;
+    display:flex;
+    flex: 1;
 color: black;
 border: 1px solid red;}
 .ingredients{text-align: center;}
